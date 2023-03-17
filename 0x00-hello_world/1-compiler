@@ -1,0 +1,2 @@
+#!/bin/bash
+CFILE=$CFILE; OFILE=${CFILE%.c}.o; gcc -Wall -Werror -pedantic -c "$CFILE" -o "$OFILE"
