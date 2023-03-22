@@ -2,9 +2,9 @@
 /* Declare _putchar prototype */
 int _putchar(char c);
 /**
- * main - entry point 
- * Return: Always 0 (success)
- */
+* main - entry point 
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 _putchar('_');
